@@ -1,0 +1,7 @@
+notebook
+ipykernel
+requests
+pandas
+numpy
+matplotlib
+seaborn
